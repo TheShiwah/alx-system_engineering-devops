@@ -1,2 +1,2 @@
 #!/bin/bashi
-ls -l -la
+ls -l -la -lh
